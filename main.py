@@ -7,7 +7,7 @@ def main():
     # Coleta todas as informações
     # client.process_query("all_manga")
 
-    # Pusca pela linguagem original
+    # Busca pela linguagem original
     # linguagens: en, ru, es
     # client.process_query("original_language", language='pt-br')
 
