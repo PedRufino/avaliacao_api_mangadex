@@ -42,17 +42,32 @@ Este projeto inclui a avaliação proposta pelo professor Orlando, com o objetiv
     cd avaliacao_api_mangadex
     ```
 
-3. Instale as dependências necessárias:
+4. Crie e ative a virtualenv
+    ```bash
+    python -m venv venv
+    ```
+  - Ativação da virtualenv
+    - Linux
+      ```bash
+      source venv/bin/activate 
+      ```
+    
+    - Windows
+      ```bash
+      venv\Scripts\activate.bat 
+      ```
+
+4. Instale as dependências necessárias:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Instale o projeto no modo desenvolvimento:
+5. Instale o projeto no modo desenvolvimento:
     ```bash
     pip install -e .
     ```
 
-5. Execute o main.py para o funcionamento do projeto.
+6. Execute o main.py para o funcionamento do projeto.
    ```bash
     python -u main.py
     ```
