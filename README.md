@@ -52,4 +52,7 @@ Este projeto inclui a avaliação proposta pelo professor Orlando, com o objetiv
     pip install -e .
     ```
 
-5. Execute o cliente e realize consultas conforme as funcionalidades descritas acima.
+5. Execute o main.py para o funcionamento do projeto.
+   ```bash
+    python -u main.py
+    ```
