@@ -1,5 +1,5 @@
 # Avaliacao API MangaDex
-Este projeto inclui a avaliação proposta pelo professor Orlando, com o objetivo de realizar o consumo de uma API.
+Este projeto inclui a avaliação proposta pelo professor [Orlando](https://github.com/orlandosaraivajr), com o objetivo de realizar o consumo de uma API.
 
 ## Funcionalidades
 
